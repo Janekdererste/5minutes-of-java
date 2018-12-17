@@ -3,7 +3,7 @@ package jcommanderDemo;
 import com.beust.jcommander.JCommander;
 import com.beust.jcommander.Parameter;
 
-public class CreateUser {
+public class CreateUserWithJCommander {
 
     public static void main(String[] args) {
 
